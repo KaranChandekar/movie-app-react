@@ -30,6 +30,8 @@ To install and run this application on your local machine, follow these steps:
 
 ## Screenshots
 
+![movieland](https://user-images.githubusercontent.com/93200960/221888841-6b34c2b9-ab37-454f-b7f5-1bd8059776c2.png)
+
 ## Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
